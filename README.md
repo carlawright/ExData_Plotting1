@@ -1,7 +1,7 @@
 ##Exploratory Data Analysis Course Project 1 – C.Wright
 <p>
 The code found in this repository use the same file source to generate the 4 png files found in this repository. 
-To run any of the four different scripts, set your working directory to the root of this repository and then source the script. The scripts assume the data is already downloaded. </p>
+To run any of the four different scripts, set your working directory to the root of this repository and then source the script. The scripts assume the data is already downloaded from <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> </p>
 <p>Each script will:<ol>
 <li>Read the data file</li>
 <li>Subset the data stored in variable mydata for the defined time period we are interested in and clean the data so that it can be plotted the same as the project samples. </li>
