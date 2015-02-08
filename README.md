@@ -1,10 +1,11 @@
 ##Exploratory Data Analysis Course Project 1 – C.Wright
-
+<p>
 The code found in this repository use the same file source to generate the 4 png files found in this repository. 
-To run any of the four different scripts, set your working directory to the root of this repository and then source the script. Each script will:
-1.	Download the data file
-2.	Subset the data stored in variable mydata for the defined time period we are interested in and clean the data so that it can be plotted the same as the project samples. 
-3.	Each R file generates a png that is 480 by 480 that is of the same file name as the script but with extension .png  Example: source("plot1.R") Generates the file plot1.png.
+To run any of the four different scripts, set your working directory to the root of this repository and then source the script. The scripts assume the data is already downloaded. </p>
+<p>Each script will:<ol>
+<li>Read the data file</li>
+<li>Subset the data stored in variable mydata for the defined time period we are interested in and clean the data so that it can be plotted the same as the project samples. </li>
+<li>Each R file generates a png that is 480 by 480 that is of the same file name as the script but with extension .png  Example: source("plot1.R") Generates the file plot1.png.</li></ol></p>
 
 ##Below is the assignment description provided by course instructor:
 
